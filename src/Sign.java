@@ -19,7 +19,7 @@ enum Sign {
     }
 
     public int getPriority() {
-        return priority;
+            return priority;
     }
 
     public static Sign getFromSign(String sign){
