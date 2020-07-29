@@ -1,3 +1,5 @@
+package Main;
+
 public class ParserClass {
 
     public static Integer tryParseInt(String text) {

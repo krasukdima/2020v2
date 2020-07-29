@@ -1,3 +1,5 @@
+package Main;
+
 enum Sign {
     PLUS(0, "+"),
     MINUS(0, "-"),
